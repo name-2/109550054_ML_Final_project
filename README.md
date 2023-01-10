@@ -14,7 +14,7 @@ Use Juypter Notebook, so download data and 109550054_train and run all
 
 ## Evaluation
 
-model_link:https://github.com/name-2/109550054_ML_Final_project/tree/main/pickle_model
+model_link:https://drive.google.com/drive/folders/1dm0czQYBD0rR5CJXdFpmSm7fS_8gadpQ
 
 Use Juypter Notebook, so download data and 109550054_inference and pickle_model then run all
 (Notice the path)
